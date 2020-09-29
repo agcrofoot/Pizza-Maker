@@ -1,0 +1,13 @@
+C:\Users\birdc\source\repos\decorator-lab-agcrofoot\obj\Debug\netcoreapp3.1\fall-2020-starter-code.csprojAssemblyReference.cache
+C:\Users\birdc\source\repos\decorator-lab-agcrofoot\obj\Debug\netcoreapp3.1\fall-2020-starter-code.AssemblyInfoInputs.cache
+C:\Users\birdc\source\repos\decorator-lab-agcrofoot\obj\Debug\netcoreapp3.1\fall-2020-starter-code.AssemblyInfo.cs
+C:\Users\birdc\source\repos\decorator-lab-agcrofoot\obj\Debug\netcoreapp3.1\fall-2020-starter-code.csproj.CoreCompileInputs.cache
+C:\Users\birdc\source\repos\decorator-lab-agcrofoot\bin\Debug\netcoreapp3.1\fall-2020-starter-code.exe
+C:\Users\birdc\source\repos\decorator-lab-agcrofoot\bin\Debug\netcoreapp3.1\fall-2020-starter-code.deps.json
+C:\Users\birdc\source\repos\decorator-lab-agcrofoot\bin\Debug\netcoreapp3.1\fall-2020-starter-code.runtimeconfig.json
+C:\Users\birdc\source\repos\decorator-lab-agcrofoot\bin\Debug\netcoreapp3.1\fall-2020-starter-code.runtimeconfig.dev.json
+C:\Users\birdc\source\repos\decorator-lab-agcrofoot\bin\Debug\netcoreapp3.1\fall-2020-starter-code.dll
+C:\Users\birdc\source\repos\decorator-lab-agcrofoot\bin\Debug\netcoreapp3.1\fall-2020-starter-code.pdb
+C:\Users\birdc\source\repos\decorator-lab-agcrofoot\obj\Debug\netcoreapp3.1\fall-2020-starter-code.dll
+C:\Users\birdc\source\repos\decorator-lab-agcrofoot\obj\Debug\netcoreapp3.1\fall-2020-starter-code.pdb
+C:\Users\birdc\source\repos\decorator-lab-agcrofoot\obj\Debug\netcoreapp3.1\fall-2020-starter-code.genruntimeconfig.cache

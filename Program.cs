@@ -6,7 +6,14 @@ namespace fall_2020_starter_code
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pizza myPizza = new StuffedCrust(){Size = "Large"};
+
+            myPizza = new Cheese(myPizza);
+            myPizza = new Cheese(myPizza);
+            myPizza = new Pepperoni(myPizza);
+            myPizza = new Sausage(myPizza);
+
+            Console.WriteLine(myPizza.GetDescription() + " $" + myPizza.Cost());
         }
     }
 }
