@@ -12,7 +12,7 @@ namespace fall_2020_starter_code
         }
         public override string GetDescription()
         {
-            return pizza.GetDescription() + " , add cheese";
+            return pizza.GetDescription() + ", add cheese";
         }
         public override string GetSize()
         {
