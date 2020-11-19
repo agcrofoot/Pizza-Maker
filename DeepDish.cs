@@ -3,7 +3,7 @@ using System;
 namespace fall_2020_starter_code
 {
     public class DeepDish : Pizza
-    {
+    {   //Concrete Component 
         public DeepDish()
         {
             Description = "Deep Dish";

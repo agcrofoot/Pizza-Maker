@@ -3,7 +3,7 @@ using System;
 namespace fall_2020_starter_code
 {
     public abstract class Pizza
-    {
+    {   //Component
         public string Size{get; set;}
         public string Description{get; set;}
 

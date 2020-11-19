@@ -3,7 +3,7 @@ using System;
 namespace fall_2020_starter_code
 {
     public class StuffedCrust : Pizza
-    {
+    {   //Concrete Component
         public StuffedCrust()
         {
             Description = "Stuffed Crust";

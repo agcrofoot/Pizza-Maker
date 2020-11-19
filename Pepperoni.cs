@@ -3,7 +3,7 @@ using System;
 namespace fall_2020_starter_code
 {
     public class Pepperoni : PizzaDecorator
-    {
+    {   //Concrete Decorator
         Pizza pizza;
 
         public Pepperoni(Pizza pizza)
